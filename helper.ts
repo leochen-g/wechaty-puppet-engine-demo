@@ -119,9 +119,9 @@ export async function reply(bot:Wechaty, msg:Message) {
             .add('music')
             .add('你怎么蠢到我喜欢你都不知道')
             .add('邹念慈')
-            .add('wx5aa333606550dfd5') // 酷狗 wx79f2c4418704b4f8，网易云 wx8dd6ecd81906fd84，QQ音乐 wx5aa333606550dfd5
-            .add('http://isure6.stream.qqmusic.qq.com/C400002QTAVi3WShQg.m4a?fromtag=30006&guid=2000000006&uin=0&vkey=5F8F57E2B07E3D952EB4FAAE0D2A965CBD055BA8D822EAB3D9F41871F5EAB464D68095C572917296B9934F5DE6722A52020E562793E5921A')
-            .add('http://isure6.stream.qqmusic.qq.com/C400002QTAVi3WShQg.m4a?fromtag=30006&guid=2000000006&uin=0&vkey=5F8F57E2B07E3D952EB4FAAE0D2A965CBD055BA8D822EAB3D9F41871F5EAB464D68095C572917296B9934F5DE6722A52020E562793E5921A')
+            .add('wx8dd6ecd81906fd84') // 酷狗 wx79f2c4418704b4f8，网易云 wx8dd6ecd81906fd84，QQ音乐 wx5aa333606550dfd5
+            .add('http://m801.music.126.net/20220822163020/29adb108688789c86ed2c4996763246f/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/15028842484/ecd5/103e/abd3/e1320265865209265061abed25a62e7e.mp3')
+            .add('http://m801.music.126.net/20220822163020/29adb108688789c86ed2c4996763246f/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/15028842484/ecd5/103e/abd3/e1320265865209265061abed25a62e7e.mp3')
             .add('https://img.aibotk.com/aibotk/public/yq3wWdBL0BnJV4Z1_WechatIMG3550.jpeg')
             .build()
         if (room) {
