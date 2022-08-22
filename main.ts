@@ -4,8 +4,8 @@ import {dingDongBot, getMessagePayload, LOGPRE} from "./helper";
 
 const puppet = new PuppetEngine({
     port: "8089",
-    httpServer: "http://10.10.10.15:8055",
-    runLocal: false
+    httpServer: "http://localhost:8055",
+    runLocal: true
 })
 
 const bot = WechatyBuilder.build({
