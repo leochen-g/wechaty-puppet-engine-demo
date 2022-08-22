@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/leochen-g/wechaty-puppet-engine-demo#readme",
   "dependencies": {
+    "file-box": "^1.4.15",
     "wechaty": "^1.20.2",
     "wechaty-puppet": "^1.20.2",
     "wechaty-puppet-engine": "^1.0.5"

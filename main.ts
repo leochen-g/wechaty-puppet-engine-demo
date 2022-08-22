@@ -19,7 +19,7 @@ bot.on("login", (user) => {
     .on("message", async (message) => {
         log.info(LOGPRE, `on message: ${message.toString()}`);
 
-        await getMessagePayload(message);
+        await getMessagePayload(bot, message);
 
         await dingDongBot(message);
     })
